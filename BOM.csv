@@ -1,3 +1,3 @@
-Name,Age,Department
-John Doe,28,Engineering
-Jane Smith,34,Marketing
+Part,Amount,Price,Link
+XIAO-ESP32C3,1,$11.21,temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601105343284324&sku_id=17619073443131&adg_ctx=a-fc6eca49~c-240aa62b&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&locale_override=60~en~EGP&_x_ns_sku_id=17619073443131&_x_ns_gid=601105343284324&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=5661265603&_x_login_type=Google&_x_ns_gg_lnk_type=adr&_x_ads_account=4251489964&_x_ads_set=23089249878&_x_ads_id=195105180948&_x_ads_creative_id=777910377294&_x_ns_source=g&_x_ns_gclid=CjwKCAjw857RBhAgEiwAI-1yKGajNhml3d4txTGZpIlv_ii1QbnmDoBWj4wsJQMfScUTHzDdXtHSahoCebQQAvD_BwE&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=17619073443131&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=CkAKCAjw0JnRBhAXEjAAoR0zOx4OAd_Ase1WSMmj_4mPh00HFO49gojAe9HaXPnPsMqIL5qFuO3p-9f7vPoaAoWN&_x_ns_gbraid=0AAAAAo4mICFGfLEOFkjjSf5i8zib9xMke&_x_ns_targetid=pla-2199902624081&gad_source=1&gad_campaignid=23089249878&gbraid=0AAAAAo4mICFGfLEOFkjjSf5i8zib9xMke&gclid=CjwKCAjw857RBhAgEiwAI-1yKGajNhml3d4txTGZpIlv_ii1QbnmDoBWj4wsJQMfScUTHzDdXtHSahoCebQQAvD_BwE
+TFT LCD Display Module,1,$7.34,Marketing
