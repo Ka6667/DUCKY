@@ -1,0 +1,52 @@
+Potentiomter =>  GPIO2 || A0 || D0 (input)
+----------------------------------
+Sw1 => GPIO3 || A1 || D1  (input)
+----------------------------------
+TFT
+rst => GIPO4 || A2 || D2 (OUTPUT)
+CS => GIPO5 || A3 || D3 (OUTPUT)
+SDA => GIPO6 || D4 || D4 (OUTPUT)
+DC => GIPO7 || D5 || D5 (OUTPUT)
+MOSI => GIPO10 || D10 || D10 (OUTPUT)		
+MISO => GIPO9 || D9 || D9 (INTPUT)
+SCK => GIPO8 || D8 || D8 (OUTPUT)
+------------------------------------
+DF player
+RX => GIPO21 || D6 || TX (OUTPUT)
+Tx => GIPO20 || D7 || RX (INPUT)
+--------------------------------------------------------------
+Libraries:
+#include <Arduino.h>
+#include <WiFi.h>
+#include <time.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_ST7735.h>
+#include <DFRobotDFPlayerMini.h>
+#include <pgmspace.h
+--------------------------------------
+ *  MODES:
+ *   Clock    → default. Shows time/date + duck animations
+ *   Timer    → 1 press.  Pot sets minutes. Press again to start.
+ *   Stopwatch→ 2 presses. Pot sets lap alert (seconds).
+ *   Music    → In clock mode, hold 0.5s. Pot = DFMini volume.
+ *   Hold 2s  → Return to clock from any mode.
+ *
+ *  ANIMATIONS (5 frames each, 120×160 px, stored in PROGMEM):
+ *   Blinking  → day idle
+ *   Sleeping  → 22:00 – 06:00
+ *   Music     → while music plays
+ *   Sad       → 30s after missed alarm / stopwatch end
+-----------------------------------------------------------------
+How to use:
+Clock Mode is the default. She shows the time and date.
+During the day she blinks happily. After 10 PM she goes to sleep.
+Press once → Timer Mode
+Turn the knob to pick minutes, then press again to start.
+If the alarm fires and you don't respond in 30 seconds, she gets sad
+Press twice quickly → Stopwatch Mode
+Press to start and stop. Turn the knob to set a lap alert interval.
+Hold for 0.5 seconds → Music Mode
+Press to play or pause. Turn the knob to change the volume.
+Hold for 2 seconds → Go back to Clock Mode from anywhere.
+The knob always does something useful depending on the mode, brightness in clock mode, minutes in timer, lap interval in stopwatch, and volume in music mode.
+The music is saved in the SD Card of the DFplayer!! make sure to download the music and the loudest alarm sound on the SD card or Ducky will be silent the whole time!
