@@ -13,8 +13,8 @@
 
 ## What is DUCKY?
 Ducky is my custom smart alarm and personal assistant!
-Ducky lives on a little screen and she takes her job very seriously. Set a timer, and she'll count down with full dedication — ignore her alarm, and she will absolutely let you know she's disappointed. She's got feelings, okay?
-When you're vibing to music, Ducky throws on her headphones and bops along. When it's late at night, she's already tucked in and sleeping — because unlike you, she has great sleep hygiene. And when you actually wake up on time? She's happy. Proud, even. Don't let her down.
+Ducky lives on a little screen and she takes her job very seriously. Set a timer, and she'll count down with full dedication, ignore her alarm, and she will absolutely let you know she's disappointed. She's got feelings, okay?
+When you're vibing to music, Ducky throws on her headphones and bops along. When it's late at night, she's already tucked in and sleeping, because unlike you, she has great sleep hygiene. And when you actually wake up on time? She's happy. Proud, even. Don't let her down.
 Built with an ESP32, a tiny TFT screen, and way too much love, Ducky is a smart alarm clock, timer, stopwatch, and music companion all in one. She syncs her time from the internet so she's always right, and she will remind you of that.
 
 ## Why did I build it?
