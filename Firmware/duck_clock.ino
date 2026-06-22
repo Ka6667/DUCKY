@@ -9,7 +9,7 @@
 // ── WiFi ─────────────────────────────────────────────────────
 const char* WIFI_SSID     = "isotones";
 const char* WIFI_PASSWORD = "Isotones@2020";
-const char* NTP_SERVER    = "pool.ntp.org";   // BUG FIX: was "pool.nip.org"
+const char* NTP_SERVER    = "pool.ntp.org";   
 const long  GMT_OFFSET_SEC      = 7200;        // Cairo = UTC+2
 const int   DAYLIGHT_OFFSET_SEC = 0;
 
