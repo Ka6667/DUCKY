@@ -78,19 +78,6 @@ unsigned long lastFrameMs   = 0;
 unsigned long frameInterval = 200;
 unsigned long lastClockRefresh = 0;
 
-// ─────────────────────────────────────────────────────────────
-//  BITMAP SECTION
-//  BUG FIX: your original file had raw hex bytes dumped directly
-//  inside the anim_blink[5] / anim_sleep[1] / etc. pointer arrays,
-//  which is completely wrong syntax. Those arrays must contain
-//  POINTERS to the individual frame arrays, not raw pixel data.
-//
-//  Replace the empty {} below with your actual frame data from
-//  image2cpp (120x160, RGB565 Big Endian).
-//  Example:
-//    const uint8_t PROGMEM anim_blink_0[] = { 0x00, 0xFF, ... };
-// ─────────────────────────────────────────────────────────────
-
 #define FRAME_W    120
 #define FRAME_H    160
 #define FRAME_BYTES (FRAME_W * FRAME_H * 2)  // 38400 bytes per frame
