@@ -26,8 +26,6 @@ const int   DAYLIGHT_OFFSET_SEC = 0;
 #define DF_RX     20
 
 // ── Screen ───────────────────────────────────────────────────
-// BUG FIX: constructor was using undefined TFT_CS/TFT_DC/TFT_RST
-// (they were named TET_CS etc. in your file — typo)
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCK, TFT_RST);
 #define SCREEN_W 128
 #define SCREEN_H 160
