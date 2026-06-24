@@ -42,16 +42,16 @@ The music is saved in the SD Card of the DFplayer!! make sure to download the mu
 <img width="650" height="553" alt="pcb2" src="https://github.com/user-attachments/assets/e8b886ac-4a88-4b38-bb16-084703376e3b" />
 
 ## Assembly Instructions
-it is so simple just add four screws to the four mounting holes inside the case to attach the PCB to the case as you can see here (just use any M3*0.5 screw):
+it is so simple just add four screws to the four mounting holes inside the case to attach the PCB to the case as you can see here (just use Socket Head Cap ScrewsM3*0.5 screw):
 <img width="1561" height="637" alt="Screenshot 2026-06-24 122957" src="https://github.com/user-attachments/assets/f12c1747-66a6-4c4d-9d43-459fb159cea7" />
 <img width="1149" height="737" alt="Screenshot 2026-06-24 123532" src="https://github.com/user-attachments/assets/eb795384-2e25-4367-8e02-8889d7b8023f" />
-<img width="1110" height="736" alt="Screenshot 2026-06-24 123618" src="https://github.com/user-attachments/assets/126907c2-9794-4e6b-8fd3-96fdb3ec565b" />
+<img width="1022" height="709" alt="Screenshot 2026-06-24 132547" src="https://github.com/user-attachments/assets/0024c349-7a41-47b5-84bf-109a4a7b1994" />
 
 
 
-Then there are three screws for the outer mounting for the face of the case (Use M2*0.4 screws):
-<img width="683" height="681" alt="Screenshot 2026-06-24 123253" src="https://github.com/user-attachments/assets/4de70f8e-c882-434f-8946-7113dc3c7e79" />
-<img width="806" height="585" alt="Screenshot 2026-06-24 123856" src="https://github.com/user-attachments/assets/66a88f14-7fd7-48fa-b9a1-b0d73fc3c6e7" />
+Then there are three screws for the outer mounting for the face of the case. I extened the holes a little bit outside the case to make it more stable (also use Socket Head Cap Screws):
+<img width="723" height="684" alt="Screenshot 2026-06-24 135621" src="https://github.com/user-attachments/assets/9f439874-b408-4d97-8d79-72b409cd6377" />
+<img width="852" height="671" alt="Screenshot 2026-06-24 135604" src="https://github.com/user-attachments/assets/f2d445ec-28d2-4e71-b2a9-52ab2f972c41" />
 
 you can still use a washer if you want to install any other screws that has small heads. just make sure to keep everything fixed in its place!! 
 
