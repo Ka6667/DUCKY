@@ -60,5 +60,4 @@ you can still use a washer if you want to install any other screws that has smal
 <img width="1153" height="716" alt="Screenshot 2026-06-20 112222" src="https://github.com/user-attachments/assets/4dac1cf3-4417-4331-a332-926478bf7dbd" />
 <img width="1614" height="766" alt="Screenshot 2026-06-20 143159" src="https://github.com/user-attachments/assets/6614b905-cf99-41a8-9611-623f68053b11" />
 
-The small little cylinder on the right side will be used as a knob for the potitiometer (The hole on the side and the knob's postition are accurate based on the data sheet of the potetiometer)
-
+The small little cylinder on the right side is a body that will be used as a knob extender for the potentiometer (The hole on the side and the knob's postition, lenght and width are accurate based on the data sheet of the potentiometer)! The CAD desgin of the potentiometer is not present because I can't find a good one that will really looks like the real potentiometer that I will use in this project (it's not a big deal because I used the potentiometer data sheet to know the exact measurements to make the knob and its hole!!!).
