@@ -8,7 +8,7 @@
 * [Schematics](#schematics)
 * [PCB Design](#pcb-design)
 * [3D Model](#3d-model)
-
+* [Assembly Instructions](#assembly-instructions)
 ---
 
 ## What is DUCKY?
@@ -40,6 +40,20 @@ The music is saved in the SD Card of the DFplayer!! make sure to download the mu
 <img width="650" height="650" alt="Screenshot 2026-06-20 142647" src="https://github.com/user-attachments/assets/ea37b5ba-111f-4660-84d1-3f4442ed9905" />
 <img width="650" height="600" alt="Screenshot 2026-06-20 142706" src="https://github.com/user-attachments/assets/892551c8-d6dd-412d-98f3-fbff3b4de833" />
 <img width="650" height="553" alt="pcb2" src="https://github.com/user-attachments/assets/e8b886ac-4a88-4b38-bb16-084703376e3b" />
+
+## Assembly Instructions
+it is so simple just add four screws to the four mounting holes inside the case to attach the PCB to the case as you can see here (just use any M3*0.5 screw):
+<img width="1561" height="637" alt="Screenshot 2026-06-24 122957" src="https://github.com/user-attachments/assets/f12c1747-66a6-4c4d-9d43-459fb159cea7" />
+<img width="1149" height="737" alt="Screenshot 2026-06-24 123532" src="https://github.com/user-attachments/assets/eb795384-2e25-4367-8e02-8889d7b8023f" />
+<img width="1110" height="736" alt="Screenshot 2026-06-24 123618" src="https://github.com/user-attachments/assets/126907c2-9794-4e6b-8fd3-96fdb3ec565b" />
+
+
+
+Then there are three screws for the outer mounting for the face of the case (Use M2*0.4 screws):
+<img width="683" height="681" alt="Screenshot 2026-06-24 123253" src="https://github.com/user-attachments/assets/4de70f8e-c882-434f-8946-7113dc3c7e79" />
+<img width="806" height="585" alt="Screenshot 2026-06-24 123856" src="https://github.com/user-attachments/assets/66a88f14-7fd7-48fa-b9a1-b0d73fc3c6e7" />
+
+you can still use a washer if you want to install any other screws that has small heads. just make sure to keep everything fixed in its place!! 
 
 ## 3D Model
 <img width="776" height="702" alt="Screenshot 2026-06-20 111535" src="https://github.com/user-attachments/assets/e60838f6-59e8-4291-bf87-b20242077e03" />
