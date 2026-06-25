@@ -13,10 +13,9 @@
 
 ## What is DUCKY?
 Ducky is my custom smart alarm and personal assistant!
-Ducky lives on a little screen and she takes her job very seriously. Set a timer, and she'll count down with full dedication, ignore her alarm, and she will absolutely let you know she's disappointed. She's got feelings, okay?
-When you're vibing to music, Ducky throws on her headphones and bops along. When it's late at night, she's already tucked in and sleeping, because unlike you, she has great sleep hygiene. And when you actually wake up on time? She's happy. Proud, even. Don't let her down.
-Built with an xiao esp32c, a tiny TFT screen, and way too much love, Ducky is a smart alarm clock, timer, stopwatch, and music companion all in one. She syncs her time from the internet so she's always right, and she will remind you of that.
-
+Ducky lives on a little screen and she takes her job very seriously. She can set a time. if you ignore her alarm, and she will absolutely let you know she's disappointed. She's got feelings, okay?!!!!
+When you're vibing to music, Ducky throws on her headphones and bops along. When it's late at night, she's already tucked in and sleeping, because unlike you, she has great sleep hygiene. And when you actually wake up on time? She will be so happy so don't let her down.
+I used xiao esp32c, a tiny TFT screen, and way too much love to design it, Ducky is a smart alarm clock, timer, stopwatch, and music companion all in one. She syncs her time from the internet so she's always right, and she will remind you of that.
 ## Why did I build it?
 I’m constantly missing school because my old alarm is totally unreliable and sometimes it doesn't even go off. I tried buying a new one, but I’m still having the same problem and just can’t seem to wake up. So I’ve decided to build my own smart alarm. I want it to actually interact with me like it’ll walk me through my schedule and appointments for the day, let me know if the the time and day by interacting with me, and play music or rain sounds to help me crash at night. Basically, it’s going to be a calendar and my music box, and 100% better at getting me out of bed on time.
 
