@@ -7,8 +7,9 @@
 * [How to use DUCKY](#how-to-use-ducky)
 * [Schematics](#schematics)
 * [PCB Design](#pcb-design)
-* [3D Model](#3d-model)
 * [Assembly Instructions](#assembly-instructions)
+* [3D Model](#3d-model)
+* [BOM](#bom)
 ---
 
 ## What is DUCKY?
@@ -60,3 +61,18 @@ you can still use a washer if you want to install any other screws that has smal
 <img width="1614" height="766" alt="Screenshot 2026-06-20 143159" src="https://github.com/user-attachments/assets/6614b905-cf99-41a8-9611-623f68053b11" />
 
 The small little cylinder on the right side is a body that will be used as a knob extender for the potentiometer (The hole on the side and the knob's postition, lenght and width are accurate based on the data sheet of the potentiometer)! The CAD desgin of the potentiometer is not present because I can't find a good one that will really looks like the real potentiometer that I will use in this project (it's not a big deal because I used the potentiometer data sheet to know the exact measurements to make the knob and its hole!!!).
+
+## BOM
+| Part | Amount | Price | Link |
+| :--- | :---: | :---: | :--- |
+| XIAO-ESP32C3 | 1 | $11.21 | [Temu Link](https://temu.com/ul/kuiper/un9.html) |
+| TFT LCD Display Module | 1 | $7.34 | [Amazon Link](https://www.amazon.eg/-/en/TFT-Display-Module-Interface-Inch/dp/B0CJ851LDT/) |
+| DFPlayer Mini MP3 | 1 | $2.54 | [Temu Link](https://www.temu.com/ul/kuiper/un9.html) |
+| Speakers | 1 | $4.94 | [Temu Link](https://www.temu.com/ul/kuiper/un9.html) |
+| LIPO-Battery | 1 | $1.10 | [Makers Electronics Link](https://makerselectronics.com/product/rechargeable-400925-lipo-battery/) |
+| 1000K Ohm resistor | 1 | $0.05 | [Amazon Link](https://www.amazon.eg/-/en/Resistor-1K-ohm-4W-2pcs/dp/B0CJQ3M5J1/) |
+| Screws | 4 | $1.50 | [Temu Link](https://www.temu.com/ul/kuiper/un9.html) |
+| Push-buttons | 1 | $0.04 | [Temu Link](https://www.temu.com/eg-en/10pcs-6x6x5mm--tactile-tact-push-button-micro-switch-mini-micro-momentary-tactile-push-button-switch--x-5mm-g-605681855863393.html) |
+| Potentiometer | 1 | $0.34 | [Amazon Link](https://www.amazon.eg/-/en/Generic-414999-483-Potentiometer-10K-Ohm/dp/B091DX3483/) |
+| PCB | 1 | $2.00 | [JLCPCB Link](https://cart.jlcpcb.com) |
+| **Total** | | **$31.06** <br>*(shipping not included)* | |
